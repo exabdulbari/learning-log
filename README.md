@@ -15,7 +15,7 @@ I'm rebuilding my skills after a break and documenting my journey toward becomin
 
 ## 📅 Weekly Progress Log
 
-### Week 1 – [Insert Date]
+### Week 1 – 7/6/2025
 - [ ] ✅ Reviewed basic HTML & CSS
 - [ ] ✅ Practiced PowerShell commands (get-process, get-service)
 - [ ] ✅ Set up Windows Server 2019 in VirtualBox
