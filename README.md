@@ -21,6 +21,14 @@ I'm rebuilding my skills after a break and documenting my journey toward becomin
 - [ ] ✅ Set up Windows Server 2019 in VirtualBox
 - [ ] Notes: [link to notes or folder]
 
+### Week 1 – Day 1 [8/6/2025]
+- ✅ Watched HTML & CSS crash courses
+- ✅ Built a simple personal web page using HTML/CSS
+- ✅ Created and pushed `basic-html-css-site` repo
+- 🔗 [GitHub Repo](https://github.com/exabdulbari/basic-html-css-site.git)
+- 🧠 Learned how basic HTML elements and CSS selectors work
+
+
 ---
 
 ## 🧠 Study Resources
